@@ -264,6 +264,7 @@ ion-toolbar img {
   background-size: cover;
   background-attachment: fixed;
   background-position: center;
+  box-shadow: 10px 5px 5px black;
   height: 100vh;
 }
 
@@ -292,7 +293,7 @@ ion-range ion-icon {
 .back_image {
   height: 180px;
   background-image: linear-gradient(rgba(0, 0, 0, 0.7), transparent),
-    url("https://www.pjclassic.com/wp-content/uploads/2023/11/pjclasic1.jpg");
+    url("../asset/pj_classic.jpg");
   background-size: cover;
   /* background-attachment: fixed; */
   background-position: center;

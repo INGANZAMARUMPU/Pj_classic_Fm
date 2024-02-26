@@ -5,7 +5,7 @@
    <div class="container" @click="closemenus">
     <div class="profile">
       <div class="img">
-        <img src="https://www.pjclassic.com/wp-content/uploads/2023/08/logo-site.png" alt="">
+        <img src="./asset/pj_classic.jpg" alt="">
       </div>
       <div class="title">
         <h4>Pj Classic FM</h4>
