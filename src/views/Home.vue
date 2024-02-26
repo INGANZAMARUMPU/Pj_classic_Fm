@@ -245,8 +245,8 @@ ion-toolbar {
   color: #000;
 }
 ion-title {
-  -webkit-padding-start: 0;
-  -webkit-padding-end: 0;
+  padding-left: 65px;
+ 
 }
 .list-md {
   --padding: 0;
