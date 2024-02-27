@@ -33,7 +33,7 @@
           <ion-label><a href="https://web.facebook.com/pjclassicfm/?_rdc=1&_rdr">Facebook</a></ion-label>
         </ion-item>
         <ion-item button routerLink="">
-          <ion-icon :icon="logoTwitter"></ion-icon>
+          <ion-icon :icon="logoYoutube"></ion-icon>
           <ion-label><a href="https://www.youtube.com/@pjclassicmedia150">Youtube</a></ion-label>
         </ion-item>
         <ion-item button routerLink="">
